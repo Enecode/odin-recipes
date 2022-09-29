@@ -1,2 +1,2 @@
 # odin-recipes
-A basic recipe website
+I am learning how to build a basic recipe website with HTML
